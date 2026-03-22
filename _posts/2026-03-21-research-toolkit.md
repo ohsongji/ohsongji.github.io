@@ -36,7 +36,7 @@ Rather than listing everything, I focused on tools that are practically useful i
 - **[COSMIC (Sanger Institute)](https://cancer.sanger.ac.uk/cosmic)**  
   → Curated somatic mutation database  
 
-- **[ICGC Data Portal](https://dcc.icgc.org/)**  
+- **[ICGC Data Portal](https://daco.icgc-argo.org/)**  
   → International cancer genome datasets  
 
 ---
