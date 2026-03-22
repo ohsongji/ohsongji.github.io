@@ -1,6 +1,6 @@
 ---
 title: "Research Toolkit for Cancer Biology (My Practical Guide)"
-date: 2026-03-22
+date: 2026-03-21
 categories: [Research, Resources]
 tags: [bioinformatics, database, RNA-seq, tools, CRISPR]
 ---
