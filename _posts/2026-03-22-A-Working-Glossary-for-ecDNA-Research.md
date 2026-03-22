@@ -20,6 +20,7 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **3' end**: The end of a DNA strand that has a free hydroxyl group.
  
 ![DNA structure](/assets/dna-structure.png)
+
 *Figure 1. DNA structure (source: Labster, https://theory.labster.com/dna-structure/)*
 
 - **phosphodiester bond**: The chemical bond linking nucleotides in a DNA strand.
@@ -37,7 +38,6 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Transcription**: The process of synthesizing RNA from a DNA template.
 - **Translation**: The process of synthesizing proteins from mRNA.
 
-<br>
 
 ## 🔁 DNA Replication
 
@@ -49,6 +49,7 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Leading strand**: The DNA strand synthesized continuously during replication.
 - **Lagging strand**: The DNA strand synthesized discontinuously.
 - **Okazaki fragments**: Short DNA fragments synthesized on the lagging strand.
+
 
 ## 🧨 DNA Damage and Repair
 
@@ -62,7 +63,9 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Ligation**: Enzymatic process of joining two DNA fragments by forming a phosphodiester bond between their ends.
   
 ![DNA repair pathways](/assets/Nat-Reviews.jpg)
+
 *Figure 2. DNA repair pathways (Nature Reviews Clinical Oncology, 2019;16:81–104)*
+
 
 ## ✂️ Nucleases and DNA cutting
 - **Nuclease**: An enzyme that cleaves phosphodiester bonds in DNA or RNA.
@@ -70,6 +73,7 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Exonuclease**: A nuclease that removes nucleotides from DNA ends.
 - **Restriction enzyme**: An endonuclease that cuts DNA at specific sequences.
 - **Nickase**: An enzyme that cuts only one strand of DNA.
+
 
 ## ✂️ Genome Editing
 
@@ -81,7 +85,8 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Knock-in**: Gene insertion.
 - **Donor template**: A DNA construct used for homology-directed repair.
 - **Homology arm**: DNA sequences that match the genomic target site during HDR.
-  
+
+
 ## 🧬 ecDNA Biology
 
 - **Extrachromosomal DNA**: Circular DNA outside chromosomes containing amplified oncogenes.
