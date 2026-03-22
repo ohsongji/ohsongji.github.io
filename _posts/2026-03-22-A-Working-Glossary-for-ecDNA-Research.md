@@ -18,7 +18,7 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Antiparallel**: DNA strands run in opposite directions (5' → 3', 3' → 5').
 - **5' end**: The end of a DNA strand that has a free phosphate group.
 - **3' end**: The end of a DNA strand that has a free hydroxyl group.
-![DNA structure](/assets/img/dna-structure.png)
+![DNA structure](/assets/dna-structure.png)
 
 *Figure 1. DNA structure (source: Labster, https://theory.labster.com/dna-structure/)*
 
@@ -61,7 +61,7 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Base excision repair (BER)**: A DNA repair pathway that removes and replaces damaged or chemically modified bases to maintain genome integrity (repairs small base lesions).
 - **Nucleotide excision repair (NER)**: Repairs bulky DNA damage.
 - **Ligation**: Enzymatic process of joining two DNA fragments by forming a phosphodiester bond between their ends.
-![DNA repair pathways](/assets/img/Nat-Reviews.jpg)
+![DNA repair pathways](/assets/Nat-Reviews.jpg)
 
 *Figure 2. DNA repair pathways (Nature Reviews Clinical Oncology, 2019;16:81–104)*
 ---
