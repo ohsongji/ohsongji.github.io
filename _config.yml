@@ -196,6 +196,9 @@ defaults:
 
 sass:
   style: compressed
+assets:
+  css:
+    - /assets/css/custom.css
 
 compress_html:
   clippings: all
