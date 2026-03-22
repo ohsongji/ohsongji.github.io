@@ -110,7 +110,7 @@ Rather than listing everything, I focused on tools that are practically useful i
 - **R-based analysis (DESeq2, edgeR, etc.)**  
   → Flexible and widely used  
 
-- **GEO2R**  
+- **[GEO2R](https://www.ncbi.nlm.nih.gov/geo/)**  
   → Quick analysis from GEO  
 
 - **[GenePattern](https://www.genepattern.org/rna-seq-analysis/)**  
@@ -120,11 +120,11 @@ Rather than listing everything, I focused on tools that are practically useful i
 
 ### 🧬 Pathway Analysis
 
-- KEGG  
-- Reactome  
-- Panther  
-- GSEA  
-- DAVID  
+- **[KEGG](https://www.genome.jp/kegg/)**  
+- **[Reactome](https://reactome.org/)**  
+- **[Panther](https://pantherdb.org/)**  
+- **[GSEA](https://www.gsea-msigdb.org/gsea/index.jsp)**  
+- **[DAVID](https://davidbioinformatics.nih.gov/)**  
 
 💡 **Note:** Always consider effect size and biological relevance  
 
