@@ -18,8 +18,8 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Antiparallel**: DNA strands run in opposite directions (5' → 3', 3' → 5').
 - **5' end**: The end of a DNA strand that has a free phosphate group.
 - **3' end**: The end of a DNA strand that has a free hydroxyl group.
+ 
 ![DNA structure](/assets/dna-structure.png)
-
 *Figure 1. DNA structure (source: Labster, https://theory.labster.com/dna-structure/)*
 
 - **phosphodiester bond**: The chemical bond linking nucleotides in a DNA strand.
@@ -36,7 +36,6 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **mRNA**: Messenger RNA that carries genetic information from DNA to ribosomes.
 - **Transcription**: The process of synthesizing RNA from a DNA template.
 - **Translation**: The process of synthesizing proteins from mRNA.
----
 
 ## 🔁 DNA Replication
 
@@ -49,8 +48,6 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Lagging strand**: The DNA strand synthesized discontinuously.
 - **Okazaki fragments**: Short DNA fragments synthesized on the lagging strand.
 
----
-
 ## 🧨 DNA Damage and Repair
 
 - **Double-strand break (DSB)**: Break in both DNA strands.
@@ -61,10 +58,10 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Base excision repair (BER)**: A DNA repair pathway that removes and replaces damaged or chemically modified bases to maintain genome integrity (repairs small base lesions).
 - **Nucleotide excision repair (NER)**: Repairs bulky DNA damage.
 - **Ligation**: Enzymatic process of joining two DNA fragments by forming a phosphodiester bond between their ends.
+  
 ![DNA repair pathways](/assets/Nat-Reviews.jpg)
-
 *Figure 2. DNA repair pathways (Nature Reviews Clinical Oncology, 2019;16:81–104)*
----
+
 ## ✂️ Nucleases and DNA cutting
 - **Nuclease**: An enzyme that cleaves phosphodiester bonds in DNA or RNA.
 - **Endonuclease**: A nuclease that cuts DNA within a strand.
@@ -82,8 +79,7 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Knock-in**: Gene insertion.
 - **Donor template**: A DNA construct used for homology-directed repair.
 - **Homology arm**: DNA sequences that match the genomic target site during HDR.
----
-
+  
 ## 🧬 ecDNA Biology
 
 - **Extrachromosomal DNA**: Circular DNA outside chromosomes containing amplified oncogenes.
