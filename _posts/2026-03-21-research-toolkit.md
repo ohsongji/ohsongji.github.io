@@ -59,7 +59,7 @@ Rather than listing everything, I focused on tools that are practically useful i
 - **[GEO (NCBI)](https://www.ncbi.nlm.nih.gov/geo/)**  
   → Public gene expression datasets  
 
-- **[GEPIA2](http://gepia2.cancer-pku.cn/#index)**  
+- **[GEPIA2](https://gepia2.cancer-pku.cn/#index)**  
   → Quick visualization of TCGA/GTEx  
 
 - **[GTEx Portal](https://www.gtexportal.org/home/)**  
