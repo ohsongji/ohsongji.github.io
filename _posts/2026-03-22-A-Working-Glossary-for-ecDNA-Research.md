@@ -37,6 +37,8 @@ This post is a personal glossary of core molecular biology concepts frequently u
 - **Transcription**: The process of synthesizing RNA from a DNA template.
 - **Translation**: The process of synthesizing proteins from mRNA.
 
+<br>
+
 ## 🔁 DNA Replication
 
 - **DNA replication**: The process by which a cell copies its DNA before cell division.
