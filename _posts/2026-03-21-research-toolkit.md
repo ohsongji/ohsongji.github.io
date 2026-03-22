@@ -192,3 +192,7 @@ Rather than listing everything, I focused on tools that are practically useful i
 - Combine multiple tools for validation  
 
 ---
+<span style="color: #8b3a3a;">
+Please note that these resources may be updated, changed, or integrated over time.  
+If you notice any outdated information or have suggestions for improvement, feel free to let me know.
+</span>
