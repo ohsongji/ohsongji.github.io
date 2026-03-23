@@ -137,6 +137,8 @@ assets:
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
+    css:
+      - /assets/css/style.scss
 
 pwa:
   enabled: true # The option for PWA feature (installable)
@@ -197,9 +199,6 @@ defaults:
 sass:
   style: compressed
   
-assets:
-  css:
-    - /assets/css/custom.css
 
 compress_html:
   clippings: all
